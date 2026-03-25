@@ -1,0 +1,3 @@
+Each user has preferences (ratings, watch history)
+KNN finds similar users based on these preferences
+It recommends movies that similar users liked

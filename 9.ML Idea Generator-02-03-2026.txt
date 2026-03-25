@@ -1,0 +1,24 @@
+College
+1.Student Performance Prediction
+Input → attendance, internal marks, study hours
+Output → predicted final grade or pass/fail
+2.Placement Recommendation System
+Input → skills, CGPA, past projects
+Output → suitable job roles or companies
+
+Healthcare
+1.Disease Prediction
+Input → symptoms, age, medical history
+Output → probable disease
+2.Hospital Readmission Prediction
+Input → patient records, treatment history
+Output → chance of readmission
+
+Shopping / E-commerce
+1.Product Recommendation System
+Input → browsing history, past purchases
+Output → suggested products
+2.Price Prediction
+Input → product features, demand, competitor price
+Output → optimal price
+

@@ -1,0 +1,16 @@
+Tree Structure
+
+
+Outlook
+│
+├── Sunny
+│   └── Humidity?
+│       ├── High → No
+│       └── Normal → Yes
+│
+├── Overcast → Yes
+│
+└── Rain
+    └── Wind?
+        ├── Strong → No
+        └── Weak → Yes
