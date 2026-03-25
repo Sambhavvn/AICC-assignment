@@ -1,0 +1,29 @@
+Google Search
+When you search something, AI guesses what you really mean and ranks results using machine learning models trained on billions of searches.
+
+YouTube Recommendations
+It learns what you like based on watch time, clicks, and likes, then suggests videos using recommendation algorithms.
+
+Instagram / Facebook Feed
+AI decides which posts you see first by analyzing your interactions (likes, shares, comments) and predicting what you’ll engage with.
+
+Google Maps Navigation
+It predicts traffic and fastest routes using real-time data and past travel patterns with ML models.
+
+Email Spam Filter (Gmail)
+Machine learning detects spam by learning patterns from millions of emails marked as spam or safe.
+
+Voice Assistants (Siri / Google Assistant)
+They convert your speech to text and understand intent using Natural Language Processing (NLP) models.
+
+Netflix Recommendations
+It studies what you watch, pause, or skip to suggest shows using collaborative filtering techniques.
+
+Online Shopping (Amazon/Flipkart)
+AI suggests products based on your browsing and buying history using personalization algorithms.
+
+Autocorrect & Predictive Text (Keyboard)
+It predicts your next word based on language models trained on huge text datasets.
+
+Face Unlock (Smartphones)
+AI recognizes your face using image recognition models trained to detect unique facial features.
